@@ -1,6 +1,10 @@
 # Hitech224.github.io
-## Nice Norm
-#### Again nice norm
-[Names of gang members](https://www.youtube.com/watch?v=aWzlQ2N6qqg)<br>
-<img src="20211229_180937.jpg"><br><br>
+## DOCTOR STRANGE 2
+#### Multiverse of Madness
+[Trailer](https://www.youtube.com/watch?v=aWzlQ2N6qqg)<br>
 [<img src="doc.jpg">](https://www.youtube.com/watch?v=aWzlQ2N6qqg)
+1. Doctor Stephen Strange
+2. Wanda Maximoff
+* Vision
+* Doctor Christine Palmer
+> You break the rules and become the hero, I do it and become the enemy.. That doesn't seem fair.
