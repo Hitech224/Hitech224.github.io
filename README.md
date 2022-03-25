@@ -2,7 +2,7 @@
 ## DOCTOR STRANGE 2
 #### Multiverse of Madness
 [Trailer](https://www.youtube.com/watch?v=aWzlQ2N6qqg)<br>
-[<img src="doc.jpg">](https://www.youtube.com/watch?v=aWzlQ2N6qqg)
+[<img height=400, width=400, src="doc.jpg">](https://www.youtube.com/watch?v=aWzlQ2N6qqg)
 1. Doctor Stephen Strange
 2. Wanda Maximoff
 * Vision
